@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +923231582002
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,11 +37,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
+global.owner = ['923231582002','']
+global.premium = ['923231582002','923231582002']
+global.botname = '๛ジW6丨SALMANツ MD BOT'
+global.ownername = '๛ジW6丨SALMANツ
+global.group1 = 'https://chat.whatsapp.com/JOe5QVTnScFJgcM165JbPt'
 global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
 global.packname = 'SHEWON MD BOT'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
@@ -52,11 +52,11 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
-global.dripstyping = false
-global.dripsreadgroup = false
+global.dripstyping = true
+global.dripsreadgroup = true
 global.dripsreadall = false
-global.dripsrecord = false
-global.available = false
+global.dripsrecord = true
+global.available = true
 global.unavailable = true
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
